@@ -209,7 +209,6 @@ where:
 `original` - the original transcription  
 `LD` - [Levenhstein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 
-
 #### Part 2 (70% of score)[text-to-AMR]
 
 The evaluation process might take some time as we will rely on the Smatch calculator provided by https://amr.isi.edu/ Team.
@@ -235,9 +234,12 @@ You'll receive access to a dataset of ~1.4GB speech & text file.
 * For the training data you'll be provided with RAW transcriptions  
 * For the evaluation purposes, the transcriptions need to be simplified - see [evaluation information](#1sh-2-evaluation)  
 
+[Dataset](https://drive.google.com/file/d/1LiWqjOXhK_YHQNiT8PQT0tHrsJ8H-1Fw)
 
 #### Part 2 (70% of score)
 You'll receive access to a dataset of ~30MB text file.
+
+[Dataset](https://drive.google.com/file/d/1LiWqjOXhK_YHQNiT8PQT0tHrsJ8H-1Fw)
 
 **Please note**
 
