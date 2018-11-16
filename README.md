@@ -239,7 +239,7 @@ You'll receive access to a dataset of ~1.4GB speech & text file.
 #### Part 2 (70% of score)
 You'll receive access to a dataset of ~30MB text file.
 
-[Dataset](https://drive.google.com/file/d/1LiWqjOXhK_YHQNiT8PQT0tHrsJ8H-1Fw)
+[Dataset](https://drive.google.com/file/d/1FBEIlkuPIPZ0AlPBZAI3ABA6nRyxLGW_)
 
 **Please note**
 
