@@ -301,6 +301,8 @@ The submitted CSV should consist of three columns:
 
 #### Submission Form
 
+[Sample submission DEV CSV](https://drive.google.com/file/d/148--_ECNeuPl2uAmSIG0aaV23NK1h8k1)
+
 [NewVoiceMedia - Part 1 - Speech-to-Text submission](https://goo.gl/forms/lYmcbLJSdkh1DIHL2)
 
 
@@ -315,6 +317,8 @@ The submission process is to physically approach judges, but be prepared to show
 - URL & hash of the Github commit
 
 #### Submission Form
+
+Sample submission DEV CSV - it's part of the dataset file.
 
 [NewVoiceMedia - Part 2 - Text-to-AMR submission](https://goo.gl/forms/QGc2KGJIRXzgQrPr2)
 
