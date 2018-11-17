@@ -233,12 +233,12 @@ You'll receive access to a dataset of ~1.4GB speech & text file.
 * For the training data you'll be provided with RAW transcriptions  
 * For the evaluation purposes, the transcriptions need to be simplified - see [evaluation information](#1sh-2-evaluation)  
 
-[Dataset](https://drive.google.com/file/d/1G8MJ_b4DsIYqCchlSc8fGLJKRPNq9z3K)
+[Voice Part 1 - Dataset](https://drive.google.com/file/d/1G8MJ_b4DsIYqCchlSc8fGLJKRPNq9z3K)
 
 #### Part 2 (70% of score)
 You'll receive access to a dataset of ~30MB text file.
 
-[Dataset](https://drive.google.com/file/d/1FBEIlkuPIPZ0AlPBZAI3ABA6nRyxLGW_)
+[Voice Part 2 - Dataset](https://drive.google.com/file/d/1FBEIlkuPIPZ0AlPBZAI3ABA6nRyxLGW_)
 
 **Please note**
 
