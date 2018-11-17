@@ -1,3 +1,6 @@
+# speech to text solution validator
+# usage: python3 1sh-2a-evaluator.py <your_file> <label_file>
+
 import csv
 import sys
 
