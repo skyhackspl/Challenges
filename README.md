@@ -1,5 +1,4 @@
 # Challenges
-# Challenges
 A list of challenges prepared together with our sponsors:
 
 
