@@ -114,6 +114,15 @@ In this [link](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-trainda
 
 [ArcelorMittal Computer Vision - UIC Wagon recognition submission form](https://goo.gl/forms/6jQuLMmSsMCaOly93)
 
+In this [link](https://drive.google.com/drive/folders/1-3YfoxIm_nlX7j-GcbYXUxjG46h90Uqb?usp=sharing) you can get the csv with the results of the evaluation. There is a routine that scans the submission folder, and every 30min updates the file.
+
+If you woul like to challengue yourself, you could try to process the train "0_50". This is a very special train, pay attention to the details
+
+- [0_50_left](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-traindataset/0_50_left.zip?sp=r&st=2018-11-17T22:27:04Z&se=2018-11-18T06:27:04Z&spr=https&sv=2017-11-09&sig=qckZDNa%2FSOr8sJLFuWAHA3L%2BOK7gHNUOCSJ687q5zRo%3D&sr=b)
+- [0_50_right](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-traindataset/0_50_right.zip?sp=r&st=2018-11-17T22:27:31Z&se=2018-11-18T06:27:31Z&spr=https&sv=2017-11-09&sig=hD%2F49SReWxELH6FopjJZ6N1BD426NWOsmq21PY5Rv0M%3D&sr=b)
+
+___
+
 ### Repository Requirements
 
 See the [General Repository Requirements](#hackathon-repository-requirements).
