@@ -110,6 +110,10 @@ In this [link](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-trainda
 
 **uic_label:** the UIC number
 
+#### Submission Form
+
+[ArcelorMittal Computer Vision - UIC Wagon recognition submission form](https://goo.gl/forms/6jQuLMmSsMCaOly93)
+
 ### Repository Requirements
 
 See the [General Repository Requirements](#hackathon-repository-requirements).
@@ -295,6 +299,11 @@ The submitted CSV should consist of three columns:
 - Speaker name in lowercase
 - Text in lowercase and without punctuation marks
 
+#### Submission Form
+
+[NewVoiceMedia - Part 1 - Speech-to-Text submission](https://goo.gl/forms/lYmcbLJSdkh1DIHL2)
+
+
 #### For the 2nd part of the task:
 
 The submitted CSV should consist of three columns:
@@ -304,6 +313,11 @@ The submitted CSV should consist of three columns:
 The submission process is to physically approach judges, but be prepared to show:
 - A submission CSV file
 - URL & hash of the Github commit
+
+#### Submission Form
+
+[NewVoiceMedia - Part 2 - Text-to-AMR submission](https://goo.gl/forms/QGc2KGJIRXzgQrPr2)
+
 
 ### Repository Requirements
 
