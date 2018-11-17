@@ -1,7 +1,12 @@
 ##############################
 # Python 3.7 required
 # usage: python3 amr-checker.py <csv-file-name>
+# you need to run this script from a directory where you have amr files to check with
 # where csv file is your solution file
+#
+# IMPORTANT NOTE:
+# Comments have to be removed from the amr files you check you solution with
+# You can use following regex to match them: (^#(.)+$\n)+
 ##############################
 
 
