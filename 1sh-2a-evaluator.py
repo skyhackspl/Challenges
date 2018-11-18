@@ -1,5 +1,5 @@
-# speech to text solution validator
-# usage: python3 1sh-2a-evaluator.py <your_file> <label_file>
+# usage
+# python3 scores.py <result file> <file to check>
 
 import csv
 import sys
@@ -22,7 +22,7 @@ def get_ld(s1, s2):
             substitutions = previous_row[j] + (c1 != c2)
             current_row.append(min(insertions, deletions, substitutions))
         previous_row = current_row
-
+    
     return previous_row[-1]
 
 check_filename = sys.argv[1]
@@ -33,17 +33,22 @@ with open(filename, newline='') as csvfile_to_check:
     with open(check_filename, newline='') as csvfile_validation:
         reader1 = csv.reader(csvfile_to_check, delimiter=',')
         reader2 = csv.reader(csvfile_validation, delimiter=',')
+        
+        test_rows = list(reader1)
+        test_val = list(reader2)
 
-        test = next(reader1)
-        val = next(reader2)
+        for i in range(min(len(test_rows), len(test_val))):
+            test = test_rows[i]
+            val = test_val[i]
 
-        if (test[0] != val[0]):
-            scores.append(0.0)
-        else:
-            length = len(val[1])
-            ld = get_ld(test[1], val[1])/length
-            score = 0.0 if ld > 1.0 else 1.0 - ld
-            scores.append(score)
-
+            if (test[0] != val[0]):
+                print("Error in {}!".format(i+1))
+                scores.append(0.0)
+            else:
+                length = len(val[1])
+                ld = get_ld(test[1], val[1])/length
+                score = 0.0 if ld > 1.0 else 1.0 - ld
+                scores.append(score)
+        
 result = float(sum(scores)/float(len(scores)))
 print("Score", result)
