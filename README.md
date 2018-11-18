@@ -114,6 +114,19 @@ In this [link](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-trainda
 
 [ArcelorMittal Computer Vision - UIC Wagon recognition submission form](https://goo.gl/forms/6jQuLMmSsMCaOly93)
 
+In this [link](https://drive.google.com/drive/folders/1-3YfoxIm_nlX7j-GcbYXUxjG46h90Uqb?usp=sharing) you can get the csv with the results of the evaluation. There is a routine that scans the submission folder, and every 30min updates the file.
+
+If you woul like to challengue yourself, you could try to process the train "0_50". This is a very special train, pay attention to the details
+
+- [0_50_left](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-traindataset/0_50_left.zip?sp=r&st=2018-11-17T22:27:04Z&se=2018-11-18T06:27:04Z&spr=https&sv=2017-11-09&sig=qckZDNa%2FSOr8sJLFuWAHA3L%2BOK7gHNUOCSJ687q5zRo%3D&sr=b)
+- [0_50_right](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-traindataset/0_50_right.zip?sp=r&st=2018-11-17T22:27:31Z&se=2018-11-18T06:27:31Z&spr=https&sv=2017-11-09&sig=hD%2F49SReWxELH6FopjJZ6N1BD426NWOsmq21PY5Rv0M%3D&sr=b)
+
+## TOP 5 - Test dataset
+Up to 11:00, you will have the time to submmit your results to get to the top5. 
+- [0_64_left](https://jgferdiag.blob.core.windows.net/amp-skyhacks-2018-traindataset/0_64_left.zip?sp=r&st=2018-11-18T08:42:46Z&se=2018-11-18T16:42:46Z&spr=https&sv=2017-11-09&sig=Za5Jpg6CH1jL5J%2F88YwAJkJWBL1BJXfoDSmQU0I4fPI%3D&sr=b)
+
+___
+
 ### Repository Requirements
 
 See the [General Repository Requirements](#hackathon-repository-requirements).
@@ -237,12 +250,19 @@ You'll receive access to a dataset of ~1.4GB speech & text file.
 * For the training data you'll be provided with RAW transcriptions  
 * For the evaluation purposes, the transcriptions need to be simplified - see [evaluation information](#1sh-2-evaluation)  
 
-[Voice Part 1 - Dataset](https://drive.google.com/file/d/1G8MJ_b4DsIYqCchlSc8fGLJKRPNq9z3K)
+[Voice Part 1 - Dataset](https://drive.google.com/file/d/1G8MJ_b4DsIYqCchlSc8fGLJKRPNq9z3K)  
+[Voice Part 1 - Test Dataset](https://drive.google.com/file/d/1yEDf9yv6uoG_oVx033NoAUmyZWB3j7KP)  
+[Voice Part 1 - Speakers & Times](https://drive.google.com/file/d/1o92wTzhl1_ZBppMuGzQr3eOEZbZXlVCg)  
+
+[Submission CSV](https://drive.google.com/file/d/1dgz9EmqOeSIXUKHwwAYZjC_uk0gVNNKs)
 
 #### Part 2 (70% of score)
 You'll receive access to a dataset of ~30MB text file.
 
-[Voice Part 2 - Dataset](https://drive.google.com/file/d/1FBEIlkuPIPZ0AlPBZAI3ABA6nRyxLGW_)
+[Voice Part 2 - Dataset](https://drive.google.com/file/d/1FBEIlkuPIPZ0AlPBZAI3ABA6nRyxLGW_)  
+[Voice Part 2 - Test Dataset](https://drive.google.com/file/d/1NkuIJ73qTCySZN6iW3dYSeZa3ZuteMsa)  
+
+[Submission CSV](https://drive.google.com/file/d/1axqpw_9gpJo-aB5vmeAlZ56Ctpc5Xygk)
 
 **Please note**
 
