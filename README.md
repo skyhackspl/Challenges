@@ -255,6 +255,9 @@ You'll receive access to a dataset of ~1.4GB speech & text file.
 You'll receive access to a dataset of ~30MB text file.
 
 [Voice Part 2 - Dataset](https://drive.google.com/file/d/1FBEIlkuPIPZ0AlPBZAI3ABA6nRyxLGW_)
+[Voice Part 2 - Test Dataset](https://drive.google.com/file/d/1NkuIJ73qTCySZN6iW3dYSeZa3ZuteMsa)
+
+[Submission CSV](https://drive.google.com/file/d/1axqpw_9gpJo-aB5vmeAlZ56Ctpc5Xygk)
 
 **Please note**
 
