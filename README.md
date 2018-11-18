@@ -248,6 +248,7 @@ You'll receive access to a dataset of ~1.4GB speech & text file.
 
 [Voice Part 1 - Dataset](https://drive.google.com/file/d/1G8MJ_b4DsIYqCchlSc8fGLJKRPNq9z3K)
 [Voice Part 1 - Test Dataset](https://drive.google.com/file/d/1yEDf9yv6uoG_oVx033NoAUmyZWB3j7KP)
+[Voice Part 1 - Speakers & Times](https://drive.google.com/file/d/1o92wTzhl1_ZBppMuGzQr3eOEZbZXlVCg)
 
 [Submission CSV](https://drive.google.com/file/d/1dgz9EmqOeSIXUKHwwAYZjC_uk0gVNNKs)
 
