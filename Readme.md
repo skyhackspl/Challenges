@@ -38,7 +38,8 @@ Main [Dashboard](https://judge.skygate.io/) with live results.
 To send us your solution you have:
 1. Register your team.
 2. Send validation .csv file in proper format (so our Scorer can accept it) to begin a task.
-3. Solve and send us .csv file with your answer, we will validate it, and show a final score for your solution. 
+3. Create model and train it on our **Dataset**
+4. Check results of your model on our **Results test set** and send us .csv file with your answer, we will validate it, and show a final score for your solution. 
 
 > **NOTE:** use **;** as .csv separator!
 
