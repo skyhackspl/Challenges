@@ -41,7 +41,7 @@ To send us your solution you have:
 3. Create model and train it on our **Dataset**
 4. Check results of your model on our **Results test set** and send us .csv file with your answer, we will validate it, and show a final score for your solution. 
 
-> **NOTE:** use **;** as .csv separator!
+> **NOTE:** use **,** as .csv separator!
 
 > You can send answers 1 time every 15 minutes.
 
