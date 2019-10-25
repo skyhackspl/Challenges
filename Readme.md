@@ -15,12 +15,12 @@ What should I do?
 You have to solve 2 tasks this year:
 
 `Main task`
-* Description - **TODO** 
+* [Description](https://github.com/SkyhacksPL/Challenges/blob/master/2019/main/hackaton_description_of_task.docx)
 * [Dataset](https://drive.google.com/file/d/1lXwT-KbXcG_lZ2O_x_pTV0Kaxxles8Fo/view?usp=sharing)
 * [Results test set](https://drive.google.com/file/d/1GQuWW-e4zLj1mRxDUEJQnK93Q-HZfLF3/view?usp=sharing)
 
 `Bonus task`
-* Description - **TODO** 
+* [Description](https://github.com/SkyhacksPL/Challenges/tree/master/2019/bonus)
 * [Dataset](https://drive.google.com/file/d/16nNJPWtIMeWb9PmYU0E3cjY5iUIkTMtv/view?usp=sharing)
 
  
