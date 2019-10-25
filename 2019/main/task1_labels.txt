@@ -1,0 +1,53 @@
+Bathroom
+Bathroom cabinet
+Bathroom sink
+Bathtub
+Bed
+Bed frame
+Bed sheet
+Bedroom
+Cabinetry
+Ceiling
+Chair
+Chandelier
+Chest of drawers
+Coffee table
+Couch
+Countertop
+Cupboard
+Curtain
+Dining room
+Door
+Drawer
+Facade
+Fireplace
+Floor
+Furniture
+Grass
+Hardwood
+House
+Kitchen
+Kitchen & dining room table
+Kitchen stove
+Living room
+Mattress
+Nightstand
+Plumbing fixture
+Property
+Real estate
+Refrigerator
+Roof
+Room
+Rural area
+Shower
+Sink
+Sky
+Table
+Tablecloth
+Tap
+Tile
+Toilet
+Tree
+Urban area
+Wall
+Window

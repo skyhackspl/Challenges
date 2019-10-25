@@ -1,0 +1,6 @@
+house
+dinning_room
+kitchen
+bathroom
+living_room
+bedroom

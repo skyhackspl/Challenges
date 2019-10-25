@@ -16,11 +16,12 @@ You have to solve 2 tasks this year:
 
 `Main task`
 * Description - **TODO** 
-* [Dataset](https://drive.google.com/file/d/1lXwT-KbXcG_lZ2O_x_pTV0Kaxxles8FoMo/view?usp=sharing)
+* [Dataset](https://drive.google.com/file/d/1lXwT-KbXcG_lZ2O_x_pTV0Kaxxles8Fo/view?usp=sharing)
+* [Results test set](https://drive.google.com/file/d/1GQuWW-e4zLj1mRxDUEJQnK93Q-HZfLF3/view?usp=sharing)
 
 `Bonus task`
 * Description - **TODO** 
-* [Dataset](https://drive.google.com/file/d/16nNJPWtIMeWb9PmYU0E3cjY5iUIkTMtvHo/view?usp=sharing)
+* [Dataset](https://drive.google.com/file/d/16nNJPWtIMeWb9PmYU0E3cjY5iUIkTMtv/view?usp=sharing)
 
  
 How can I win?
