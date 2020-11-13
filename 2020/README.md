@@ -20,8 +20,7 @@ Having a collection of training photos and their tags, create a system or model 
 ### Second task (40% of total score):
 
 
-Prepare a web application, take takes a audio or video file as an input -> and returns statisics on how often objects of the classes and exact moments in these files (ranges of moments) - where the objects (same 38 categories from the first task) are appearing or mentioned. In audio files - these objects doesn't need to be mentiond directly, can also be mentioned indirectly.
-
+Prepare a web application, take takes a audio or video file as an input -> and returns statistics on how often objects of the classes and exact moments in these files (ranges of moments) - where the objects (same 38 categories from the first task) are appearing or mentioned. In audio files - these objects doesn't need to be mentioned directly, can also be mentioned indirectly.
 
 ## Evaluation
 
