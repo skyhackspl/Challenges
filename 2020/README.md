@@ -1,4 +1,4 @@
-# Silesian attractions – Computer Vision competition
+# Silesia Travel – Computer Vision & NLP competition
 
 ## Description
 
