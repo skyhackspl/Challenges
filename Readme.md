@@ -18,10 +18,11 @@ Before downloading the data, please complete the following form:
 
 `First task`
 * [Dataset](https://drive.google.com/file/d/1gY2eakuPx-r6BgqRkD-vLXCr9x1NejZ9/view?usp=sharing)
+* [Labels](https://drive.google.com/file/d/1S9_XpKrfcKXdRj4XfC39x_0YHqNLBHb4/view?usp=sharing)
 
 `Second task`
-* [Dataset](https://drive.google.com/drive/folders/14Dm5v8znGs-rG2L-A3V1_c8NCVL7nAUl)
-
+* [Video](https://drive.google.com/drive/folders/14Dm5v8znGs-rG2L-A3V1_c8NCVL7nAUl)
+* [Audio](https://drive.google.com/file/d/1qzrp952GwOPORbtKp-9oXPRD1CSqHEdT/view?usp=sharing)
  
 How can I win?
 ------------

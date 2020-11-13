@@ -9,7 +9,7 @@ The main goal of the task is to tag photos from different parts of Silesia with 
 ### Dataset description
 
 
-The dataset consists of two parts. One is a folder with photos from various parts of Silesia and a .csv file with the names of the photo files and a logical value for each of the 38 objects, determining whether it is in the photo. The second is a folder with video files.
+The dataset consists of two parts. One is a folder with photos from various parts of Silesia and a .csv file with the names of the photo files and a logical value for each of the 38 categories, determining whether it is in the photo. The second is a folder with video and audio files.
 
 The dataset is private, it can only be used for this hackathon. Before downloading the data, you must accept the regulations.
 
@@ -20,7 +20,7 @@ Having a collection of training photos and their tags, create a system or model 
 ### Second task (40% of total score):
 
 
-Prepare .pdf presentation with statistics on how often objects of the classes listed in the first task are in the video files.
+Prepare .pdf presentation with statistics on how often objects of the classes listed in the first task are in the video and audio files.
 
 
 ## Evaluation
