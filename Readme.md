@@ -18,7 +18,7 @@ Before downloading the data, please complete the following form:
 
 `First task`
 * [Dataset](https://drive.google.com/file/d/1gY2eakuPx-r6BgqRkD-vLXCr9x1NejZ9/view?usp=sharing)
-* [Labels](https://drive.google.com/file/d/1S9_XpKrfcKXdRj4XfC39x_0YHqNLBHb4/view?usp=sharing)
+* [Labels](https://github.com/skyhackspl/Challenges/blob/master/2020/submission-sample.csv)
 
 `Second task`
 * [Video](https://drive.google.com/drive/folders/14Dm5v8znGs-rG2L-A3V1_c8NCVL7nAUl)
