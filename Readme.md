@@ -17,7 +17,7 @@ You have to solve 2 tasks this year:
 * [Dataset](https://drive.google.com/file/d/1gY2eakuPx-r6BgqRkD-vLXCr9x1NejZ9/view?usp=sharing)
 
 `Second task`
-* [Dataset](https://drive.google.com/file/d/1QEnJhLa5HIjKxiw1dRVCUG46H7pF0ujI/view?usp=sharing)
+* [Dataset](https://drive.google.com/drive/folders/14Dm5v8znGs-rG2L-A3V1_c8NCVL7nAUl)
 
  
 How can I win?
