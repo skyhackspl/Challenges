@@ -1,41 +1,37 @@
 HowTo Hack?
 ============
 
-
-
-
 What is going on?
 ------------
 
-##### New generation of epic Machine Learning hackaton SkyHacks 2019 starts right now!
+##### New generation of epic Machine Learning hackathon skyhacks 2020 starts right now!
  
 What should I do?
 ------------
 
 You have to solve 2 tasks this year:
 
-`Main task`
-* [Description](https://github.com/SkyhacksPL/Challenges/blob/master/2019/main/hackaton_description_of_task.docx)
-* [Dataset](https://drive.google.com/file/d/1lXwT-KbXcG_lZ2O_x_pTV0Kaxxles8Fo/view?usp=sharing)
-* [Results test set](https://drive.google.com/file/d/1GQuWW-e4zLj1mRxDUEJQnK93Q-HZfLF3/view?usp=sharing)
+* [Description](https://github.com/skyhackspl/Challenges/blob/master/2020/README.md)
 
-`Bonus task`
-* [Description](https://github.com/SkyhacksPL/Challenges/tree/master/2019/bonus)
-* [Dataset](https://drive.google.com/file/d/16nNJPWtIMeWb9PmYU0E3cjY5iUIkTMtv/view?usp=sharing)
+`First task`
+* [Dataset](https://drive.google.com/file/d/1gY2eakuPx-r6BgqRkD-vLXCr9x1NejZ9/view?usp=sharing)
+
+`Second task`
+* [Dataset](https://drive.google.com/file/d/1QEnJhLa5HIjKxiw1dRVCUG46H7pF0ujI/view?usp=sharing)
 
  
 How can I win?
 ------------
 
-You have to make a model using any available technology on your choice, which beats results of another teams! 
-> Remember to make repository with your winning solution public until Saturday, 27.10.2019 13.00, so we can accept it. Solutions with private repositories will be skipped!
+You have to train a model using any available technology on your choice, which beats results of another teams! 
+> Remember to make repository with your winning solution public until Sunday, 15.11.2020 23.59, so we can accept it. Solutions with private repositories will be skipped!
 
  
 Where can I send answers?
 ------------
-Main [Dashboard](https://judge.skygate.io/) with live results.
+Main [Dashboard](https://judge.skyhacks.io/) with live results.
 
-To send us your solution you have:
+To send us your solution you have to:
 1. Register your team.
 2. Send validation .csv file in proper format (so our Scorer can accept it) to begin a task.
 3. Create model and train it on our **Dataset**
@@ -59,10 +55,4 @@ Each of these solutions can be empowered by GPU computational resource.
 
 >Remember to keep your notebooks private!
 
- 
-Additional stuff:
-------------
-
- 1. WiFi password - **AI.skynet.2019!**
- 2. [Discord](https://discord.gg/3sHrTez)
 
