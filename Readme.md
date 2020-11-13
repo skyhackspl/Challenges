@@ -13,6 +13,9 @@ You have to solve 2 tasks this year:
 
 * [Description](https://github.com/skyhackspl/Challenges/blob/master/2020/README.md)
 
+Before downloading the data, please complete the following form:
+* [Form](https://forms.gle/x2sAd9ouFpH5AdpT6)
+
 `First task`
 * [Dataset](https://drive.google.com/file/d/1gY2eakuPx-r6BgqRkD-vLXCr9x1NejZ9/view?usp=sharing)
 
